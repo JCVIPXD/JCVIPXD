@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**JCVIPXD/JCVIPXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate student and developer with hands-on experience building projects using **modern, industry-standard languages** like Python, JavaScript, TypeScript, and React.
 
-Here are some ideas to get you started:
+🚀 **What I've built:**
+- Several full-stack web applications
+- Data analysis and automation scripts
+- Interactive UI components and responsive designs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Current Focus:**
+Deepening my knowledge in cloud technologies and open-source contribution.
+
+📫 **Let's connect:**
+Feel free to check out my projects below or reach out if you want to collaborate!
